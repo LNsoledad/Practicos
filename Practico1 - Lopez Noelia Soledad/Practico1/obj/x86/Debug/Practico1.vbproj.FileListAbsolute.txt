@@ -1,0 +1,39 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\obj\x86\Debug\Practico1.Formulario1.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\obj\x86\Debug\Practico1.Resources.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\bin\Debug\Practico1.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\bin\Debug\Practico1.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\bin\Debug\Practico1.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\obj\x86\Debug\Practico1.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\obj\x86\Debug\Practico1.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Practico1\obj\x86\Debug\Practico1.pdb
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.exe
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.xml
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.pdb
+C:\Users\lopez\Desktop\Taller2\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.exe
+C:\Users\lopez\Desktop\Taller2\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.xml
+C:\Users\lopez\Desktop\Taller2\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.pdb
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\bin\Debug\Practico1.exe
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\bin\Debug\Practico1.pdb
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\bin\Debug\Practico1.xml
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.vbprojAssemblyReference.cache
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.Formulario1.resources
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.Resources.resources
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.vbproj.GenerateResource.cache
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.vbproj.CoreCompileInputs.cache
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.exe
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.xml
+D:\FACULTAD\Taller II\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.pdb
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\bin\Debug\Practico1.exe
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\bin\Debug\Practico1.pdb
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\bin\Debug\Practico1.xml
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.vbprojAssemblyReference.cache
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.Formulario1.resources
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.Resources.resources
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.vbproj.GenerateResource.cache
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.vbproj.CoreCompileInputs.cache
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.exe
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.xml
+D:\FACULTAD\Taller II\TP\Practicos\Practico1\Practico1\obj\x86\Debug\Practico1.pdb

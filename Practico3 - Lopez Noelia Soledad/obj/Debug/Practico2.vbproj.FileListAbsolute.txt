@@ -1,0 +1,38 @@
+D:\TallerDeProgramacionII.-\Practico2\bin\Debug\Practico2.exe.config
+D:\TallerDeProgramacionII.-\Practico2\bin\Debug\Practico2.exe
+D:\TallerDeProgramacionII.-\Practico2\bin\Debug\Practico2.pdb
+D:\TallerDeProgramacionII.-\Practico2\bin\Debug\Practico2.xml
+D:\TallerDeProgramacionII.-\Practico2\obj\Debug\Practico2.vbprojAssemblyReference.cache
+D:\TallerDeProgramacionII.-\Practico2\obj\Debug\Practico2.Form1.resources
+D:\TallerDeProgramacionII.-\Practico2\obj\Debug\Practico2.Resources.resources
+D:\TallerDeProgramacionII.-\Practico2\obj\Debug\Practico2.vbproj.GenerateResource.cache
+D:\TallerDeProgramacionII.-\Practico2\obj\Debug\Practico2.vbproj.CoreCompileInputs.cache
+D:\TallerDeProgramacionII.-\Practico2\obj\Debug\Practico2.exe
+D:\TallerDeProgramacionII.-\Practico2\obj\Debug\Practico2.xml
+D:\TallerDeProgramacionII.-\Practico2\obj\Debug\Practico2.pdb
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\bin\Debug\Practico2.exe.config
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\bin\Debug\Practico2.exe
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\bin\Debug\Practico2.pdb
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\bin\Debug\Practico2.xml
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\obj\Debug\Practico2.vbprojAssemblyReference.cache
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\obj\Debug\Practico2.Resources.resources
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\obj\Debug\Practico2.vbproj.GenerateResource.cache
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\obj\Debug\Practico2.vbproj.CoreCompileInputs.cache
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\obj\Debug\Practico2.exe
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\obj\Debug\Practico2.xml
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\obj\Debug\Practico2.pdb
+D:\TallerDeProgramacionII.-\Practico2 - Ibarra Rocio Celeste\obj\Debug\Practico2.Formulario1.resources
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico3 - Ibarra Rocio Celeste\bin\Debug\Practico2.exe.config
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico3 - Ibarra Rocio Celeste\obj\Debug\Practico2.exe
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico3 - Ibarra Rocio Celeste\obj\Debug\Practico2.xml
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico3 - Ibarra Rocio Celeste\obj\Debug\Practico2.pdb
+D:\FACULTAD\Taller II\Practicos\Practico3 - Lopez Noelia Soledad\obj\Debug\Practico2.Formulario1.resources
+D:\FACULTAD\Taller II\Practicos\Practico3 - Lopez Noelia Soledad\obj\Debug\Practico2.Resources.resources
+D:\FACULTAD\Taller II\Practicos\Practico3 - Lopez Noelia Soledad\obj\Debug\Practico2.vbproj.GenerateResource.cache
+D:\FACULTAD\Taller II\Practicos\Practico3 - Lopez Noelia Soledad\obj\Debug\Practico2.vbproj.CoreCompileInputs.cache
+E:\FACULTAD\Taller II\Practicos\Practico3 - Lopez Noelia Soledad\obj\Debug\Practico2.vbprojAssemblyReference.cache
+E:\FACULTAD\Taller II\Practicos\Practico3 - Lopez Noelia Soledad\obj\Debug\Practico2.Formulario1.resources
+E:\FACULTAD\Taller II\Practicos\Practico3 - Lopez Noelia Soledad\obj\Debug\Practico2.Resources.resources
+E:\FACULTAD\Taller II\Practicos\Practico3 - Lopez Noelia Soledad\obj\Debug\Practico2.vbproj.GenerateResource.cache
+E:\FACULTAD\Taller II\Practicos\Practico3 - Lopez Noelia Soledad\obj\Debug\Practico2.vbproj.CoreCompileInputs.cache
+D:\FACULTAD\Taller II\TP\Practicos\Practico3 - Lopez Noelia Soledad\bin\Debug\Practico2.exe.config

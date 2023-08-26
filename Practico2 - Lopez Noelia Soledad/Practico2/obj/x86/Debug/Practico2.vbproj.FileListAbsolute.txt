@@ -1,0 +1,14 @@
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\obj\x86\Debug\WindowsApplication1.Formulario1.resources
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\bin\Debug\Practico2.exe
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\bin\Debug\Practico2.pdb
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\bin\Debug\Practico2.xml
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\obj\x86\Debug\Practico2.exe
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\obj\x86\Debug\Practico2.xml
+D:\Apuntes\Licenciatura en Sistemas de Información\3º Año\Taller de Programación II\Practicos\Practico2\Practico2\obj\x86\Debug\Practico2.pdb
+C:\Users\lopez\Desktop\Taller2\Practicos\Practico2\Practico2\obj\x86\Debug\Practico2.exe
+C:\Users\lopez\Desktop\Taller2\Practicos\Practico2\Practico2\obj\x86\Debug\Practico2.xml
+C:\Users\lopez\Desktop\Taller2\Practicos\Practico2\Practico2\obj\x86\Debug\Practico2.pdb
