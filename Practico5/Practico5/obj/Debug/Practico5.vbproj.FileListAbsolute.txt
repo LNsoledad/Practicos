@@ -1,0 +1,55 @@
+C:\Users\ale-pc\source\repos\Practico5\Practico5\bin\Debug\Practico5.exe.config
+C:\Users\ale-pc\source\repos\Practico5\Practico5\bin\Debug\Practico5.exe
+C:\Users\ale-pc\source\repos\Practico5\Practico5\bin\Debug\Practico5.pdb
+C:\Users\ale-pc\source\repos\Practico5\Practico5\bin\Debug\Practico5.xml
+C:\Users\ale-pc\source\repos\Practico5\Practico5\obj\Debug\Practico5.vbprojAssemblyReference.cache
+C:\Users\ale-pc\source\repos\Practico5\Practico5\obj\Debug\Practico5.Form1.resources
+C:\Users\ale-pc\source\repos\Practico5\Practico5\obj\Debug\Practico5.Resources.resources
+C:\Users\ale-pc\source\repos\Practico5\Practico5\obj\Debug\Practico5.vbproj.GenerateResource.cache
+C:\Users\ale-pc\source\repos\Practico5\Practico5\obj\Debug\Practico5.vbproj.CoreCompileInputs.cache
+C:\Users\ale-pc\source\repos\Practico5\Practico5\obj\Debug\Practico5.exe
+C:\Users\ale-pc\source\repos\Practico5\Practico5\obj\Debug\Practico5.xml
+C:\Users\ale-pc\source\repos\Practico5\Practico5\obj\Debug\Practico5.pdb
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\bin\Debug\Practico5.exe.config
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\obj\Debug\Practico5.exe
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\obj\Debug\Practico5.xml
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\obj\Debug\Practico5.pdb
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\bin\Debug\Practico5.exe
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\bin\Debug\Practico5.pdb
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\bin\Debug\Practico5.xml
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbprojResolveAssemblyReference.cache
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\obj\Debug\Practico5.Form1.resources
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\obj\Debug\Practico5.Resources.resources
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbproj.GenerateResource.Cache
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\bin\Debug\Practico5.exe.config
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\bin\Debug\Practico5.exe
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\bin\Debug\Practico5.pdb
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\bin\Debug\Practico5.xml
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbprojAssemblyReference.cache
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.Form1.resources
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.Resources.resources
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbproj.GenerateResource.cache
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbproj.CoreCompileInputs.cache
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.exe
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.xml
+D:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.pdb
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\bin\Debug\Practico5.exe.config
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\bin\Debug\Practico5.exe
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\bin\Debug\Practico5.pdb
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\bin\Debug\Practico5.xml
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbprojAssemblyReference.cache
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.Form1.resources
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.Resources.resources
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbproj.GenerateResource.cache
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbproj.CoreCompileInputs.cache
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.exe
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.xml
+E:\FACULTAD\Taller II\Practicos\Practico5\Practico5\obj\Debug\Practico5.pdb
+D:\FACULTAD\Taller II\TP\Practicos\Practico5\Practico5\bin\Debug\Practico5.exe.config
+D:\FACULTAD\Taller II\TP\Practicos\Practico5\Practico5\obj\Debug\Practico5.exe
+D:\FACULTAD\Taller II\TP\Practicos\Practico5\Practico5\obj\Debug\Practico5.xml
+D:\FACULTAD\Taller II\TP\Practicos\Practico5\Practico5\obj\Debug\Practico5.pdb
+D:\FACULTAD\Taller II\TP\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbprojResolveAssemblyReference.cache
+D:\FACULTAD\Taller II\TP\Practicos\Practico5\Practico5\obj\Debug\Practico5.Form1.resources
+D:\FACULTAD\Taller II\TP\Practicos\Practico5\Practico5\obj\Debug\Practico5.Resources.resources
+D:\FACULTAD\Taller II\TP\Practicos\Practico5\Practico5\obj\Debug\Practico5.vbproj.GenerateResource.Cache
