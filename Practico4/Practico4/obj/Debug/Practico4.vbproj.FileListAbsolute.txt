@@ -1,0 +1,28 @@
+C:\Users\ale-pc\source\repos\Practico4\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\ale-pc\source\repos\Practico4\Practico4\bin\Debug\Practico4.exe
+C:\Users\ale-pc\source\repos\Practico4\Practico4\bin\Debug\Practico4.pdb
+C:\Users\ale-pc\source\repos\Practico4\Practico4\bin\Debug\Practico4.xml
+C:\Users\ale-pc\source\repos\Practico4\Practico4\obj\Debug\Practico4.vbprojAssemblyReference.cache
+C:\Users\ale-pc\source\repos\Practico4\Practico4\obj\Debug\Practico4.Form1.resources
+C:\Users\ale-pc\source\repos\Practico4\Practico4\obj\Debug\Practico4.Resources.resources
+C:\Users\ale-pc\source\repos\Practico4\Practico4\obj\Debug\Practico4.vbproj.GenerateResource.cache
+C:\Users\ale-pc\source\repos\Practico4\Practico4\obj\Debug\Practico4.vbproj.CoreCompileInputs.cache
+C:\Users\ale-pc\source\repos\Practico4\Practico4\obj\Debug\Practico4.exe
+C:\Users\ale-pc\source\repos\Practico4\Practico4\obj\Debug\Practico4.xml
+C:\Users\ale-pc\source\repos\Practico4\Practico4\obj\Debug\Practico4.pdb
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico4\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico4\Practico4\obj\Debug\Practico4.exe
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico4\Practico4\obj\Debug\Practico4.xml
+C:\Users\lopez\Desktop\FACULTAD\Taller2\Practicos\Practico4\Practico4\obj\Debug\Practico4.pdb
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\bin\Debug\Practico4.exe.config
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\bin\Debug\Practico4.exe
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\bin\Debug\Practico4.pdb
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\bin\Debug\Practico4.xml
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\obj\Debug\Practico4.vbprojAssemblyReference.cache
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\obj\Debug\Practico4.Form1.resources
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\obj\Debug\Practico4.Resources.resources
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\obj\Debug\Practico4.vbproj.GenerateResource.cache
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\obj\Debug\Practico4.vbproj.CoreCompileInputs.cache
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\obj\Debug\Practico4.exe
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\obj\Debug\Practico4.xml
+E:\FACULTAD\Taller II\Practicos\Practico4\Practico4\obj\Debug\Practico4.pdb
